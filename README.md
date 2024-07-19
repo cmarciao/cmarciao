@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8257E5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cássio+Marcião.;I'm+a+Fullstack+Developer.;My+main+tools+are:+ReactJS,+NodeJS+and+Kotlin.;Be+Welcome!🎉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cássio+Marcião.;I'm+a+Fullstack+Developer.;My+main+tools+are:+ReactJS,+NextJS+and+NestJS.;Be+Welcome!🎉)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,15 +18,17 @@
  
  ### Main skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=a531f1)
+![Nest.JS](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=a531f1)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)
 
 
 ### Studying in this moment:
-![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178c6)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=a531f1)
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8257E5&height=120&section=footer"/>
