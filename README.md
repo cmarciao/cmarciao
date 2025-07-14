@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8257E5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cássio+Marcião.;I'm+a+Fullstack+Developer.;My+main+tools+are:+ReactJS,+NextJS+and+NestJS.;Be+Welcome!🎉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cássio+Marcião.;I'm+a+Fullstack+Developer.;Be+Welcome!🎉)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,6 +20,8 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Nest.JS](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=a531f1)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117)&nbsp;
@@ -30,5 +32,18 @@
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)
 
+👋 Hi, I'm Cássio Albuquerque
+  
+I'm a passionate Full-Stack Developer with over 3 years of experience building scalable, performant web applications using modern technologies like React, Next.js, Node.js, and PostgreSQL. I thrive on creating intuitive user experiences and optimizing backend systems for efficiency. Currently, I contribute to innovative projects at SendFlow, enhancing platforms like UnniChat, and previously worked at SIDIA, building automation tools for Samsung's mobile testing teams.
+🔗 Connect with me:   
+
+🚀 About Me
+
+💻 Expertise: Full-stack development with a focus on scalable web applications and real-time systems.  
+🌟 Recent Work: Improved UX for UnniChat at SendFlow with advanced conversation filters and public automation sharing features.  
+🛠 Past Experience: Built automation platforms for Samsung at SIDIA, optimizing QA workflows with ReactJS, .NET Core, and Android-based tools.  
+🎓 Education: Bachelor's in Software Engineering (Universidade Estácio de Sá, 2020–2025) and Technical Degree in IT (Fundação Matias Machline, 2018–2020).
+
+⭐ Fun Fact: I love experimenting with new frameworks and optimizing workflows to make life easier for users and developers alike!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8257E5&height=120&section=footer"/>
