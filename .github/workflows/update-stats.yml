@@ -1,0 +1,39 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: "username=cmarciao&show_icons=true&count_private=true&hide_border=true&title_color=8257E5&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
+          path: "github-metrics/stats.svg"
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Generate Top Langs Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: "username=cmarciao&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"
+          path: "github-metrics/top-langs.svg"
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics/*.svg
+          git commit -m "chore: atualiza cards de estatisticas do github" || exit 0
+          git push
