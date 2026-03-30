@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: "username=cmarciao&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"
+          options: "username=cmarciao&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&hide=jupyter%20notebook"
           path: "github-metrics/top-langs.svg"
           token: ${{ secrets.PAT_TOKEN }}
 
