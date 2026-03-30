@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8257E5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9300C7&height=130&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cássio+Marcião.;I'm+a+Fullstack+Developer.;Be+Welcome!🎉)](https://git.io/typing-svg)
 
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cmarciao&show_icons=true&count_private=true&hide_border=true&title_color=8257E5&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Cássio Marcião github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmarciao&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="./github-metrics/stats.svg" alt="Cássio Marcião github stats" /> 
+  <img width="41%" height="195px" src="./github-metrics/top-langs.svg" alt="Top Languages" />
 </div>
 
 <br/>
@@ -23,27 +23,29 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Nest.JS](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=a531f1)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)
 
 
-### Studying in this moment:
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)
+### 🚀 About Me
 
-👋 Hi, I'm Cássio Albuquerque
-  
-I'm a passionate Full-Stack Developer with over 3 years of experience building scalable, performant web applications using modern technologies like React, Next.js, Node.js, and PostgreSQL. I thrive on creating intuitive user experiences and optimizing backend systems for efficiency. Currently, I contribute to innovative projects at SendFlow, enhancing platforms like UnniChat, and previously worked at SIDIA, building automation tools for Samsung's mobile testing teams.
-🔗 Connect with me:   
+I am a Fullstack Software Engineer with 4 years of experience building web and mobile applications. I enjoy working across the entire stack because it gives me a clear view of how a feature moves from the user interface to the database and cloud infrastructure. My goal is always to write clean, reliable code that solves real problems for users and businesses.
 
-🚀 About Me
+#### 🌟 Key Technical Contributions
 
-💻 Expertise: Full-stack development with a focus on scalable web applications and real-time systems.  
-🌟 Recent Work: Improved UX for UnniChat at SendFlow with advanced conversation filters and public automation sharing features.  
-🛠 Past Experience: Built automation platforms for Samsung at SIDIA, optimizing QA workflows with ReactJS, .NET Core, and Android-based tools.  
-🎓 Education: Bachelor's in Software Engineering (Universidade Estácio de Sá, 2020–2025) and Technical Degree in IT (Fundação Matias Machline, 2018–2020).
+* **System Optimization:** During my time at Sidia, I identified and addressed a critical database bottleneck by implementing a dedicated system storage solution for file management. This proactive shift prevented database bloat and ensured the application remained performant as data volume scaled.
+* **Cross-Platform Development:** Contributed to a large-scale automation ecosystem for mass cell phone testing. I worked developing frontend management interfaces and mobile components (Kotlin/Android) to facilitate concurrent testing cycles across multiple devices.
+* **Operational Dashboards & Integrations:** I developed a performance dashboard that allows teams to track critical metrics like response times and conversion rates. I also have experience building native integrations with Meta’s Conversion API (CAPI) and Google Sheets to automate manual workflows and improve data accuracy.
 
-⭐ Fun Fact: I love experimenting with new frameworks and optimizing workflows to make life easier for users and developers alike!
+#### 💻 Developer Profile
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8257E5&height=120&section=footer"/>
+I thrive in roles where I can be a versatile developer who dives into the technical details. I have practical experience implementing real-time features with **Websockets** and **MQTT**, managing data flows with **Apache Kafka**, and ensuring reliability through **Jest** and **Cypress** testing. My technical curiosity has also led me to build and deploy full-stack applications using **AWS** (S3, Lambda, API Gateway, Cognito) and **React Native**, giving me a solid understanding of how to manage and deploy cloud-native environments from end to end.
+
+#### 🛠 Technical Toolkit
+
+* **Frontend:** ReactJS, NextJS, TypeScript, React Native, Tailwind CSS, MUI.
+* **Backend:** Node.js (Express), C# (ASP.NET), Kotlin, Python, Cloud Functions.
+* **Real-time & Data:** Websocket, MQTT, Apache Kafka, PostgreSQL, MongoDB, Firebase.
+* **Infrastructure & Testing:** AWS (S3, Lambda, API Gateway, Cognito), Jest, Cypress.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9300C7&height=130&section=footer"/>
